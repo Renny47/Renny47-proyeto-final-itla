@@ -1,0 +1,6 @@
+{
+    "name": "rjbaez\\htdocs\biblioteca",
+    "description": "Sistema de biblioteca básico en PHP y MySQL",
+    "type": "project",
+    "require": {}
+}
